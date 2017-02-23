@@ -1,0 +1,176 @@
+{
+	"retter":[
+
+		{
+
+			"id": "10",
+
+			"kategori": "forretter",
+
+			"relaterede": "60",
+
+			"navn": "Russisk ringbrød med vindruer",
+
+			"pris": "39",
+
+			"udsolgt": "",
+
+			"rabatsats": "50",
+
+			"kortBeskrivelse": "Russisk ringbrød af Karapatisk mel",
+
+			"langBeskrivelse": "Russisk ringbrød efter en klassisk opskrift fra Karapatien. Dejen blandes koldhæver 30 dage, inde brødet bages over bål. Meget sprødt, godt med Karapatisk bjerggedsmør.",
+
+			"oprindelsesregion": "Karapatien",
+
+			"vegetar": "1",
+
+			"alkoholprocent": "",
+
+			"billede": "ringbroed-druer",
+
+			"billedtekst": "",
+
+			"stjerner": "1"
+
+		},
+
+		{
+
+			"id": "14",
+
+			"kategori": "forretter",
+
+			"relaterede": "55",
+
+			"navn": "Caviar bruchetta",
+
+			"pris": "49",
+
+			"udsolgt": "",
+
+			"rabatsats": "",
+
+			"kortBeskrivelse": "Brushcetta med russisk Caviar",
+
+			"langBeskrivelse": "Til denne dejlige Bruschetta anvender vi kun de dejligste sibiriske Caviar. Caviarerne presses ud af fiskene mens de stadig er levende, og vædes derefter i Putinka Vodka. Der er masser af bjerggedesmør på bruschettaene.",
+
+			"oprindelsesregion": "Karapatien",
+
+			"vegetar": "1",
+
+			"alkoholprocent": "",
+
+			"billede": "caviarbruschetta",
+
+			"billedtekst": "",
+
+			"stjerner": "4"
+
+		},
+		{
+
+			"id": "2",
+
+			"kategori": "hovedretter",
+
+			"relaterede": "60,77",
+
+			"navn": "Bulgarsk bondesuppe",
+
+			"pris": "99",
+
+			"udsolgt": "",
+
+			"rabatsats": "20",
+
+			"kortBeskrivelse": "Cauceskus bulgarske bondesuppe",
+
+			"langBeskrivelse": "Da Caucesku var i færd med at skrive sit navn med højhuse, var han nødt til at give håndværkerne solid kost, så de kunne arbejde 18 timer i døgnet, 7 dage om ugen: Bulgarsk bondesuppe. Suppen består af alt det bedste fra Bulgarien.",
+
+			"oprindelsesregion": "Bulgarien",
+
+			"vegetar": "1",
+
+			"alkoholprocent": "",
+
+			"billede": "bulgarskbondesuppe",
+
+			"billedtekst": "",
+
+			"stjerner": "4"
+
+		},
+		{
+
+			"id": "36",
+
+			"kategori": "hovedretter",
+
+			"relaterede": "60",
+
+			"navn": "Russisk Tapas",
+
+			"pris": "199",
+
+			"udsolgt": "",
+
+			"rabatsats": "20",
+
+			"kortBeskrivelse": "Russisk tapas med tomater og kød",
+
+			"langBeskrivelse": "Der er blevet sagt meget om det russiske køkken, men godt har sjældent været et af tillægsordene. Russisk tapas er dog lækkert. Inspireret af duften af Italien får du her tørret bøffelkød, hvidt brød og tomater badet i koldpresset olie.",
+
+			"oprindelsesregion": "Rusland",
+
+			"vegetar": "",
+
+			"alkoholprocent": "",
+
+			"billede": "russisktapas",
+
+			"billedtekst": "",
+			"allergener": "laktose",
+
+			"stjerner": "3"
+
+		},
+		{
+
+			"id": "41",
+
+			"kategori": "hovedretter",
+
+			"relaterede": "55,77",
+
+			"navn": "Dynryp",
+
+			"pris": "149",
+
+			"udsolgt": "",
+
+			"rabatsats": "20",
+
+			"kortBeskrivelse": "Dynrup - Russisk bulgur med skovsvampe",
+
+			"langBeskrivelse": "Dynrup - Russisk bulgur med skovsvampe fra det østlige Kirgisistan. Svampene minder om kantarelle, men med en mere støvet smag.",
+
+			"oprindelsesregion": "Rusland",
+
+			"vegetar": "1",
+
+			"alkoholprocent": "",
+
+			"billede": "dynryp",
+
+			"billedtekst": "",
+			"allergener": "laktose",
+
+			"stjerner": "1"
+
+		}
+	]
+
+}
+
+

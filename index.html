@@ -1,0 +1,116 @@
+<!doctype html>
+
+<html>
+
+<head>
+	<title>Restaurant Petrograd</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="initial-scale=1.0">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link href="restourant.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+
+	<div class="conatiner">
+
+
+		<nav class="navbar navbar-inverse navbar-fixed-top">">
+			<div class="container-fluid">
+
+				<ul class="nav navbar-nav ">
+
+
+					<li><a href="#">Home</a></li>
+
+
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Menu<span class="caret"></span></a>
+
+						<ul class="dropdown-menu">
+							<li><a href="#">Starter</a></li>
+							<li><a href="#">Main</a></li>
+							<li><a href="#">Dessert</a></li>
+							<li><a href="#">Drinks</a></li>
+						</ul>
+					</li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+
+
+			</div>
+		</nav>
+	</div>
+
+	<!--<div class="container-fluid ">
+		<section class="row">
+
+
+			<div class="col-xs-12 col-sm-12 col-md-12 kort menu5"></div>
+
+
+		</section>
+	</div>-->
+
+
+
+	<div class="container-fluid">
+		<div class="retter">
+			<!-- persondata -->
+			<template id="ret_template"> <!-- personinfo_template -->
+				<div class="ret"> <!-- personer -->
+						<div class="col-xs-12 col-sm-4 col-md-4<u><u></u></u>">
+							<button type="button" class="btn btn-link modalknap" data-toggle="modal"  data-target="#myModal">
+								<img src="">
+							</button>
+							<div class="kortBeskrivelse"></div>
+						</div>
+
+
+					<div>
+						<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+							<div class="modal-dialog modal-lg" role="document">
+								<div class="modal-content">
+									<div class="modal-header">
+										<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+										<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+									</div>
+
+									<div class="modalBillede">
+										<img src="">
+									</div>
+
+									<div class="modal-body">
+										<p>
+											Navn: <span class="data_navn">Navn</span><br>
+											Beskrivelse: <span class="data_langBeskrivelse">Lang Beskrivelse</span><br>
+											Pris: <span class="data_pris">Pris</span><br>
+											Udsolgt: <span class="data_udsolgt">Udsolgt</span><br>
+											Rabat-pris: <span class="data_rabatPris">Rabat-pris</span><br>
+											Vegetar: <span class="data_vegetar">Vegetar</span>
+										</p>
+									</div>
+									<!--<div class="modal-footer">
+										<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+									</div>-->
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</template>
+		</div>
+	</div>
+
+
+
+
+
+
+	<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.1.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	<script src="restourant.js"></script>
+</body>
+
+</html>
